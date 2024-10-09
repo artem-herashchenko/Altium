@@ -1,0 +1,6 @@
+Added Member To Class: ClassName=lab1 Member=Component R7 RES_0603 2kOhm
+Added Member To Class: ClassName=lab1 Member=Component R8 RES_0603 60.4Ohm
+Added Member To Class: ClassName=lab1 Member=Component TP2 Test point
+Added Member To Class: ClassName=lab1 Member=Component TP3 Test point
+Added Member To Class: ClassName=lab1 Member=Component TP5 Test point
+Added Member To Class: ClassName=50 Ohm Member=Wire NetC7_1

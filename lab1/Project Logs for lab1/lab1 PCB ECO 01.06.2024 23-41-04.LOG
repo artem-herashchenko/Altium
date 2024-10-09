@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=XW1-5
+Change Component Designator: OldDesignator=R6 NewDesignator=R8
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Component Designator: OldDesignator=TP1 NewDesignator=TP3
+Change Component Designator: OldDesignator=TP2 NewDesignator=TP1
+Change Component Designator: OldDesignator=TP3 NewDesignator=TP5
+Change Component Designator: OldDesignator=TP4 NewDesignator=TP2
+Change Component Designator: OldDesignator=TP5 NewDesignator=TP4
+Change Net Name : Old Net Name=NetD1_8 New Net Name=VTEMP
+Change Net Name : Old Net Name=NetR1_2 New Net Name=VOUT
+Added Class: Name=50  Ohm
+Added Class: Name=50 Ohm
