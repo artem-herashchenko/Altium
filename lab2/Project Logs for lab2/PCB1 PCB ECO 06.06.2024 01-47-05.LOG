@@ -1,0 +1,723 @@
+Added Component: Designator=C1(CAP_TANT_10uF)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2917"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "478-2380-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Êîíäåíñàòîð òàíòàëîâèé"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10ìêÔ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50Â"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP_TANT_10uF)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2917"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "478-2380-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Êîíäåíñàòîð òàíòàëîâèé"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10ìêÔ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50Â"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP_0603_0.1uF)
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "490-1519-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Êîíäåíñàòîð êåðàì³÷íèé"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1ìêÔ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50Â"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP_0603_0.1uF)
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "490-1519-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Êîíäåíñàòîð êåðàì³÷íèé"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1ìêÔ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50Â"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP_0805_4.7uF)
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "445-5980-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Êîíäåíñàòîð êåðàì³÷íèé"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7ìêÔ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50Â"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP_0603_0.1uF)
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "490-1519-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Êîíäåíñàòîð êåðàì³÷íèé"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1ìêÔ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50Â"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP_0603_0.1uF)
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "490-1519-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Êîíäåíñàòîð êåðàì³÷íèé"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1ìêÔ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50Â"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP_0805_4.7uF)
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "445-5980-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Êîíäåíñàòîð êåðàì³÷íèé"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7ìêÔ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50Â"; VariantName = "[No Variations]"
+Added Component: Designator=D1(ADP7142AUJZ-5.0-R7)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Analog Devices Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-5 Thin, TSOT-23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "505-ADP7142AUJZ-5.0-R7DKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2(ADG5421FBCPZ-RL7)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Analog Devices Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "10-WFDFN, CSP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "505-ADG5421FBCPZ-RL7DKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=FID1(FIDUCIAL 1mm)
+Add component (AddParameter): Name = "Component Function"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Fiducial"; VariantName = "[No Variations]"
+Added Component: Designator=FID2(FIDUCIAL 1mm)
+Add component (AddParameter): Name = "Component Function"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Fiducial"; VariantName = "[No Variations]"
+Added Component: Designator=FID3(FIDUCIAL 1mm)
+Add component (AddParameter): Name = "Component Function"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Fiducial"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES_0603 0Ohm)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MC0603WG00000T5E-TC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "63 ìÂò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ðåçèñòîð"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0Îì"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES_0603 0Ohm)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MC0603WG00000T5E-TC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "63 ìÂò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ðåçèñòîð"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0Îì"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES_0603 0Ohm)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MC0603WG00000T5E-TC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "63 ìÂò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ðåçèñòîð"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0Îì"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES_0603 0Ohm)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MC0603WG00000T5E-TC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "63 ìÂò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ðåçèñòîð"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0Îì"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES_0805 0Ohm)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-6GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ðåçèñòîð"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0Îì"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_0603 0Ohm)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MC0603WG00000T5E-TC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "63 ìÂò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ðåçèñòîð"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0Îì"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES_0603 0Ohm)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MC0603WG00000T5E-TC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "63 ìÂò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ðåçèñòîð"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0Îì"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_0603 0Ohm)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MC0603WG00000T5E-TC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "63 ìÂò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ðåçèñòîð"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0Îì"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES_0603 0Ohm)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MC0603WG00000T5E-TC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "63 ìÂò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ðåçèñòîð"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0Îì"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES_0603 0Ohm)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MC0603WG00000T5E-TC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "63 ìÂò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ðåçèñòîð"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0Îì"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES_0603 0Ohm)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MC0603WG00000T5E-TC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "63 ìÂò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ðåçèñòîð"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0Îì"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES_0603 0Ohm)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MC0603WG00000T5E-TC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "63 ìÂò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ðåçèñòîð"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0Îì"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES_0603 0Ohm)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MC0603WG00000T5E-TC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "63 ìÂò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ðåçèñòîð"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0Îì"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES_0603 0Ohm)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MC0603WG00000T5E-TC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "63 ìÂò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ðåçèñòîð"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0Îì"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES_0805 0Ohm)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-6GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ðåçèñòîð"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0Îì"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES_0603 0Ohm)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MC0603WG00000T5E-TC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "63 ìÂò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ðåçèñòîð"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0Îì"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES_0603 0Ohm)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MC0603WG00000T5E-TC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "63 ìÂò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ðåçèñòîð"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0Îì"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES_0805 0Ohm)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-6GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ðåçèñòîð"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0Îì"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RES_0603 1kOhm)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MC0063W060311K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "63 ìÂò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ðåçèñòîð"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1êÎì"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RES_0603 0Ohm)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MC0603WG00000T5E-TC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "63 ìÂò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ðåçèñòîð"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0Îì"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RES_0805 300Ohm)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "311-300ARDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ðåçèñòîð"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "300Îì"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RES_0603 0Ohm)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MC0603WG00000T5E-TC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "63 ìÂò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ðåçèñòîð"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0Îì"; VariantName = "[No Variations]"
+Added Component: Designator=R23(RES_0805 300Ohm)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "311-300ARDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ðåçèñòîð"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "300Îì"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(TEST POINT RED)
+Add component (AddParameter): Name = "Component Function"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Added Component: Designator=TP2(TEST POINT RED)
+Add component (AddParameter): Name = "Component Function"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Added Component: Designator=TP3(TEST POINT BLACK)
+Add component (AddParameter): Name = "Component Function"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Added Component: Designator=TP4(TEST POINT BLACK)
+Add component (AddParameter): Name = "Component Function"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Added Component: Designator=TP5(TEST POINT RED)
+Add component (AddParameter): Name = "Component Function"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Added Component: Designator=TP6(TEST POINT RED)
+Add component (AddParameter): Name = "Component Function"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Added Component: Designator=TP7(TEST POINT RED)
+Add component (AddParameter): Name = "Component Function"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Added Component: Designator=VD1(KP-2012SGC GREEN)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KINGBRIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mated With"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Opearing Temperature"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Opearing Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "KP-2012SGC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=VD2(KP-2012EC RED)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KINGBRIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mated With"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Opearing Temperature"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Opearing Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "KP-2012EC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=VT1(NDS7002A)
+Add component (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "NDS7002A"; VariantName = "[No Variations]"
+Added Component: Designator=VT2(NDS7002A)
+Add component (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "NDS7002A"; VariantName = "[No Variations]"
+Added Component: Designator=XP1(M20-9990345)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Harwin Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mated With"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Opearing Temperature"; Value = "+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Opearing Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "952-2263-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Male"; VariantName = "[No Variations]"
+Added Component: Designator=XP2(M20-9990345)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Harwin Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mated With"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Opearing Temperature"; Value = "+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Opearing Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "952-2263-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Male"; VariantName = "[No Variations]"
+Added Component: Designator=XS1(CTB5000/2)
+Add component (AddParameter): Name = "Manufacturer"; Value = "CAMDENBOSS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mated With"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Opearing Temperature"; Value = "+110°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Opearing Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CTB5000/2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Female"; VariantName = "[No Variations]"
+Added Component: Designator=XS2(CTB5000/4)
+Add component (AddParameter): Name = "Manufacturer"; Value = "CAMDENBOSS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mated With"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Opearing Temperature"; Value = "+110°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Opearing Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CTB5000/4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Female"; VariantName = "[No Variations]"
+Added Component: Designator=XS3(CTB5000/2)
+Add component (AddParameter): Name = "Manufacturer"; Value = "CAMDENBOSS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mated With"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Opearing Temperature"; Value = "+110°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Opearing Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CTB5000/2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Female"; VariantName = "[No Variations]"
+Added Component: Designator=XW1(SMB1251B1-3GT30G-50)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AMPHENOL RF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mated With"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMB1251B1-3GT30G-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Male Socket"; VariantName = "[No Variations]"
+Added Component: Designator=XW2(SMB1251B1-3GT30G-50)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AMPHENOL RF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mated With"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMB1251B1-3GT30G-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Male Socket"; VariantName = "[No Variations]"
+Added Component: Designator=XW3(SMB1251B1-3GT30G-50)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AMPHENOL RF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mated With"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMB1251B1-3GT30G-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Male Socket"; VariantName = "[No Variations]"
+Added Component: Designator=XW4(SMB1251B1-3GT30G-50)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AMPHENOL RF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mated With"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMB1251B1-3GT30G-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Male Socket"; VariantName = "[No Variations]"
+Added Component: Designator=XW5(SMB1251B1-3GT30G-50)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AMPHENOL RF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mated With"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMB1251B1-3GT30G-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Male Socket"; VariantName = "[No Variations]"
+Added Component: Designator=XW6(SMB1251B1-3GT30G-50)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AMPHENOL RF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mated With"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMB1251B1-3GT30G-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Male Socket"; VariantName = "[No Variations]"
+Added Component: Designator=XW7(SMB1251B1-3GT30G-50)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AMPHENOL RF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mated With"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMB1251B1-3GT30G-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Male Socket"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=FF Pin=D2-3
+Added Pin To Net: NetName=FF Pin=R19-1
+Added Pin To Net: NetName=FF Pin=R20-1
+Added Pin To Net: NetName=FF Pin=TP7-1
+Added Pin To Net: NetName=FF Pin=XW5-1
+Added Net: Name=FF
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-4
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=GND Pin=TP3-1
+Added Pin To Net: NetName=GND Pin=TP4-1
+Added Pin To Net: NetName=GND Pin=VT1-2
+Added Pin To Net: NetName=GND Pin=VT2-2
+Added Pin To Net: NetName=GND Pin=XP1-3
+Added Pin To Net: NetName=GND Pin=XP2-3
+Added Pin To Net: NetName=GND Pin=XS2-2
+Added Pin To Net: NetName=GND Pin=XW1-2
+Added Pin To Net: NetName=GND Pin=XW1-2
+Added Pin To Net: NetName=GND Pin=XW1-2
+Added Pin To Net: NetName=GND Pin=XW1-2
+Added Pin To Net: NetName=GND Pin=XW2-2
+Added Pin To Net: NetName=GND Pin=XW2-2
+Added Pin To Net: NetName=GND Pin=XW2-2
+Added Pin To Net: NetName=GND Pin=XW2-2
+Added Pin To Net: NetName=GND Pin=XW3-2
+Added Pin To Net: NetName=GND Pin=XW3-2
+Added Pin To Net: NetName=GND Pin=XW3-2
+Added Pin To Net: NetName=GND Pin=XW3-2
+Added Pin To Net: NetName=GND Pin=XW4-2
+Added Pin To Net: NetName=GND Pin=XW4-2
+Added Pin To Net: NetName=GND Pin=XW4-2
+Added Pin To Net: NetName=GND Pin=XW4-2
+Added Pin To Net: NetName=GND Pin=XW5-2
+Added Pin To Net: NetName=GND Pin=XW5-2
+Added Pin To Net: NetName=GND Pin=XW5-2
+Added Pin To Net: NetName=GND Pin=XW5-2
+Added Pin To Net: NetName=GND Pin=XW6-2
+Added Pin To Net: NetName=GND Pin=XW6-2
+Added Pin To Net: NetName=GND Pin=XW6-2
+Added Pin To Net: NetName=GND Pin=XW6-2
+Added Pin To Net: NetName=GND Pin=XW7-2
+Added Pin To Net: NetName=GND Pin=XW7-2
+Added Pin To Net: NetName=GND Pin=XW7-2
+Added Pin To Net: NetName=GND Pin=XW7-2
+Added Net: Name=GND
+Added Pin To Net: NetName=IN1 Pin=D2-8
+Added Pin To Net: NetName=IN1 Pin=XP1-2
+Added Pin To Net: NetName=IN1 Pin=XW3-1
+Added Net: Name=IN1
+Added Pin To Net: NetName=IN2 Pin=D2-7
+Added Pin To Net: NetName=IN2 Pin=XP2-2
+Added Pin To Net: NetName=IN2 Pin=XW4-1
+Added Net: Name=IN2
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=D1-1
+Added Pin To Net: NetName=NetC5_2 Pin=R5-2
+Added Pin To Net: NetName=NetC5_2 Pin=R8-2
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=D1-5
+Added Pin To Net: NetName=NetC8_2 Pin=R10-2
+Added Pin To Net: NetName=NetC8_2 Pin=R18-2
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetD1_3 Pin=D1-3
+Added Pin To Net: NetName=NetD1_3 Pin=R8-1
+Added Net: Name=NetD1_3
+Added Pin To Net: NetName=NetD1_4 Pin=D1-4
+Added Pin To Net: NetName=NetD1_4 Pin=R9-2
+Added Pin To Net: NetName=NetD1_4 Pin=R10-1
+Added Net: Name=NetD1_4
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R3-1
+Added Pin To Net: NetName=NetD2_1 Pin=R6-2
+Added Pin To Net: NetName=NetD2_1 Pin=TP1-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R4-1
+Added Pin To Net: NetName=NetD2_2 Pin=R7-1
+Added Pin To Net: NetName=NetD2_2 Pin=TP2-1
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD2_9 Pin=D2-9
+Added Pin To Net: NetName=NetD2_9 Pin=R12-1
+Added Pin To Net: NetName=NetD2_9 Pin=R14-1
+Added Pin To Net: NetName=NetD2_9 Pin=TP6-1
+Added Net: Name=NetD2_9
+Added Pin To Net: NetName=NetD2_10 Pin=D2-10
+Added Pin To Net: NetName=NetD2_10 Pin=R11-2
+Added Pin To Net: NetName=NetD2_10 Pin=R13-1
+Added Pin To Net: NetName=NetD2_10 Pin=TP5-1
+Added Net: Name=NetD2_10
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R3-2
+Added Pin To Net: NetName=NetR1_2 Pin=XS1-1
+Added Pin To Net: NetName=NetR1_2 Pin=XW1-1
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R4-2
+Added Pin To Net: NetName=NetR2_2 Pin=XS1-2
+Added Pin To Net: NetName=NetR2_2 Pin=XW2-1
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=R16-2
+Added Pin To Net: NetName=NetR13_2 Pin=XS3-1
+Added Pin To Net: NetName=NetR13_2 Pin=XW6-1
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=R17-2
+Added Pin To Net: NetName=NetR14_2 Pin=XS3-2
+Added Pin To Net: NetName=NetR14_2 Pin=XW7-1
+Added Net: Name=NetR14_2
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=NetR15_1 Pin=XS2-4
+Added Net: Name=NetR15_1
+Added Pin To Net: NetName=NetR20_2 Pin=R20-2
+Added Pin To Net: NetName=NetR20_2 Pin=VT1-1
+Added Net: Name=NetR20_2
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=NetR21_1 Pin=VD1-1
+Added Net: Name=NetR21_1
+Added Pin To Net: NetName=NetR22_1 Pin=R22-1
+Added Pin To Net: NetName=NetR22_1 Pin=VD1-2
+Added Pin To Net: NetName=NetR22_1 Pin=VT1-3
+Added Net: Name=NetR22_1
+Added Pin To Net: NetName=NetR22_2 Pin=R22-2
+Added Pin To Net: NetName=NetR22_2 Pin=VT2-1
+Added Net: Name=NetR22_2
+Added Pin To Net: NetName=NetR23_1 Pin=R23-1
+Added Pin To Net: NetName=NetR23_1 Pin=VD2-1
+Added Net: Name=NetR23_1
+Added Pin To Net: NetName=NetVD2_2 Pin=VD2-2
+Added Pin To Net: NetName=NetVD2_2 Pin=VT2-3
+Added Net: Name=NetVD2_2
+Added Pin To Net: NetName=Vdd Pin=C1-1
+Added Pin To Net: NetName=Vdd Pin=C4-2
+Added Pin To Net: NetName=Vdd Pin=C6-2
+Added Pin To Net: NetName=Vdd Pin=D2-5
+Added Pin To Net: NetName=Vdd Pin=R5-1
+Added Pin To Net: NetName=Vdd Pin=XS2-1
+Added Net: Name=Vdd
+Added Pin To Net: NetName=VL Pin=R15-2
+Added Pin To Net: NetName=VL Pin=R18-1
+Added Pin To Net: NetName=VL Pin=R19-2
+Added Pin To Net: NetName=VL Pin=R21-2
+Added Pin To Net: NetName=VL Pin=R23-2
+Added Pin To Net: NetName=VL Pin=XP1-1
+Added Pin To Net: NetName=VL Pin=XP2-1
+Added Net: Name=VL
+Added Pin To Net: NetName=Vss Pin=C2-2
+Added Pin To Net: NetName=Vss Pin=C3-1
+Added Pin To Net: NetName=Vss Pin=C7-2
+Added Pin To Net: NetName=Vss Pin=D2-6
+Added Pin To Net: NetName=Vss Pin=XS2-3
+Added Net: Name=Vss
+Added Class: Name=Sheet1
